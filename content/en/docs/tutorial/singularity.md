@@ -47,8 +47,9 @@ set it as follows
 
 ```bash
 rivanna>
-  mkdir -p /project/$USER/.singularity/cache
-  export SINGULARITY_CACHEDIR=/project/$USER/.singularity/cache
+  mkdir -p /project/bii_dsc_community/$USER/.singularity/cache
+  export SINGULARITY_CACHEDIR=/project/bii_dsc_community/$USER/.singularity/cache
+
 ```
 
 ### build.def
