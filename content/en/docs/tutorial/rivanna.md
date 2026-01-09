@@ -68,6 +68,7 @@ communicate with your faculty member first.
 
 TODO: IS THIS THE CASE?
 
+[//]: # GRC test for editing
 Once you are added to the group, you will receive an invitation email
 to set up password for the research computing support portal.
 If you do not recive such an email, please visit the support portal at
